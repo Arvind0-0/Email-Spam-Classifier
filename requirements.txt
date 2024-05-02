@@ -1,0 +1,12 @@
+notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+seaborn
+wordcloud
+streamlit
+nltk
+stopwords
+wordcloud
