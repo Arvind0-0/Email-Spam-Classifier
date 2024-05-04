@@ -18,6 +18,3 @@ Streamlit App: Provides a simple and intuitive web interface for users to input 
 Enter the email message into the provided text area.
 Click the "Predict" button to classify the email as either spam or not spam (ham).
 View the classification result displayed on the app interface.
-
-
-Feel free to customize this template according to your project specifics. You can add more sections, 
